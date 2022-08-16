@@ -9,3 +9,5 @@ A new Flutter project with firebase.
 
 ## Authentication Structure
 ![Authentication Structure](https://github.com/nicki1999/Brew_crew/blob/main/assets/authentication_structure.JPG?raw=true)
+
+## User data structure
